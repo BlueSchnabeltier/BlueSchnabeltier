@@ -13,5 +13,3 @@ I am Finn, a german python developer, my professions are programming, 3d modelin
 ---
 
 💬 My Discord username: `BlueSchnabeltier#1038`
-
----
