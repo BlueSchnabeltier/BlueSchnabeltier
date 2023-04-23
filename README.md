@@ -8,11 +8,7 @@ I am Finn, a german python developer, my professions are programming, 3d modelin
 
 ​
 
-​
-
 👨‍💻 My discord server: [`https://discord.gg/7GVrETwk`](https://discord.gg/7GVrETwk)
-
-​
 
 ​
 
