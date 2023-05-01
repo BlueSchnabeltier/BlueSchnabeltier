@@ -7,4 +7,5 @@ I am Finn, a german python developer, my professions are programming, 3d modelin
 
 💬 My Discord username: `BlueSchnabeltier#1038`
 
-<img align="" width="400px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=blueschnabeltier&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=radical"/><img align="" width="400px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=blueschnabeltier&hide_title=true&hide_border=true&layout=compact&hide=html&theme=radical"/>
+<img align="" width="400px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=blueschnabeltier&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=radical"/>
+<img align="" width="400px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=blueschnabeltier&hide_title=true&hide_border=true&layout=compact&hide=html&theme=radical"/>
